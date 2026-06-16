@@ -1,24 +1,10 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    HERO BANNER                                 -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shafeer%20Saidalavi&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Generative%20AI%20Developer%20%E2%80%A2%20Founder%20%E2%80%A2%20Technical%20Mentor&descAlignY=58&descColor=a0aec0&animation=fadeIn" />
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED TYPING                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shafeer%20Saidalavi&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Founder%20%E2%80%A2%20Technical%20Mentor&descAlignY=58&descColor=a0aec0&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=Building+AI+Systems+That+Solve+Real+Human+Problems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Generative+AI;Founder+%40+MedNex+%7C+AI+%26+Data+Science+Trainer;Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=Building+AI+Systems+That+Solve+Real+Human+Problems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Generative+AI;Researcher+%7C+Founder+%40+MedNex+%7C+Kerala%2C+India" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=shafeer-saidalavi&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/shafeer-saidalavi?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -26,9 +12,7 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--              CURRENTLY BUILDING  (top priority)               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY BUILDING -->
 
 <div align="center">
 
@@ -49,9 +33,7 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
 
 <div align="center">
 
@@ -65,18 +47,9 @@
 <summary><b>✈️ &nbsp; PJIS — Passenger Journey Intelligence System</b></summary>
 <br/>
 
-> An AI-powered aviation intelligence platform that redefines the passenger travel experience — combining LLMs, RAG, and agentic workflows into a production-grade system.
+> An AI-powered aviation intelligence platform combining LLMs, RAG, and agentic workflows into a production-grade system.
 
-**What it does:**
-
-- 🤖 AI Trip Planning & Personalized Recommendations
-- 💬 Conversational Travel Assistant (LLM-powered)
-- 📈 Predictive Insights & Airline Intelligence
-- 🗺️ End-to-end Passenger Journey Mapping
-- 🔄 Agentic Workflows with Tool-Use
-- 📊 Real-Time Analytics Dashboard
-
-> 📸 **Architecture & Screenshots** — add your system diagram and dashboard screenshots here via `![PJIS Architecture](./assets/pjis-architecture.png)`
+**Core Features:** AI Trip Planning · Conversational Travel Assistant · Predictive Insights · Agentic Workflows · Real-Time Analytics Dashboard
 
 **Tech Stack:**
 
@@ -84,7 +57,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=00d4ff)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=e535ab)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1)
 
@@ -98,15 +70,7 @@
 
 > Connecting medical job seekers with healthcare institutions through intelligent AI matching. Built from zero as Founder & AI Architect.
 
-**What it does:**
-
-- 👨‍⚕️ Medical Professional Profiles & Smart Discovery
-- 🤖 AI-Powered Job Matching Engine
-- 🏨 Hospital & Clinic Opportunity Hub
-- 📋 Intelligent Application Workflow
-- 🎯 Role Fit Scoring & Compatibility Analysis
-
-> 📸 **UI & Screenshots** — add your landing page and mockup screenshots here via `![MedNex UI](./assets/mednex-ui.png)`
+**Core Features:** AI-Powered Job Matching · Smart Talent Discovery · Role Fit Scoring · Hospital & Clinic Hub
 
 </details>
 
@@ -116,17 +80,7 @@
 <summary><b>📚 &nbsp; Educational RAG Platform</b></summary>
 <br/>
 
-> A Retrieval Augmented Generation system that transforms static educational content into an intelligent, queryable knowledge base with LLM-powered tutoring.
-
-**What it does:**
-
-- 📄 Document Ingestion, Chunking & Indexing
-- 🔍 Hybrid Semantic + Keyword Search
-- 💬 Context-Aware Question Answering
-- 🧠 LLM-Powered Adaptive Tutoring
-- 📊 Knowledge Retrieval Analytics
-
-> 📸 **Architecture** — add your RAG pipeline diagram here via `![RAG Architecture](./assets/rag-architecture.png)`
+> RAG system that transforms educational content into an intelligent, queryable knowledge base with LLM-powered tutoring.
 
 **Tech Stack:**
 
@@ -142,13 +96,46 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    EXPERIENCE                                  -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- RESEARCH -->
 
 <div align="center">
 
-### `〔 EXPERIENCE 〕`
+### `〔 RESEARCH 〕`
+
+</div>
+
+<br/>
+
+> I write about the intersection of neuroscience, biology, and artificial intelligence — exploring ideas that sit at the edge of what's possible.
+
+<br/>
+
+| Domain | Focus |
+|:---|:---|
+| 🧫 **Organoid Intelligence** | Biological neural networks as living computational substrates |
+| 🧠 **Brain-AI Systems** | Merging biological cognition with artificial intelligence architectures |
+| 🔬 **Neural Chip Integration** | Brain-computer interfaces and chip-to-AI signal translation |
+| ✈️ **Aviation AI** | AI-driven solutions for aviation operations, safety, and passenger intelligence |
+
+<br/>
+
+<div align="center">
+
+📝 **Read my research writing on Medium**
+
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white&label=@shafeersaidalavi222)](https://medium.com/@shafeersaidalavi222)
+
+</div>
+
+<br/>
+
+---
+
+<!-- EXPERIENCE -->
+
+<div align="center">
+
+### `〔 JOURNEY 〕`
 
 </div>
 
@@ -158,15 +145,15 @@
   ◉ NOW        Founder @ MedNex
   │            AI-powered healthcare job connecting platform
   │
-  ◉            AI & Data Science Trainer
-  │            Teaching ML, Python, NLP, GenAI, AI Project Development
-  │            Mentoring aspiring AI engineers across India
-  │
-  ◉            Tata Technologies — AI/Data Science Projects
-  │            Applied ML and data science in industry-grade engagements
+  ◉            Independent Researcher
+  │            Organoid Intelligence · Brain-AI · Aviation AI
+  │            Research-oriented study + real-world project building
   │
   ◉            AI Engineer — PJIS
   │            LLMs + RAG + Agentic Workflows for aviation intelligence
+  │
+  ◉            Educational RAG Platform
+  │            Document intelligence + semantic search + LLM tutoring
   │
   ◉ START      Computer Science Graduate
                Foundation in AI, ML, Data Science & Generative AI
@@ -176,9 +163,7 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                                  -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
 <div align="center">
 
@@ -194,7 +179,7 @@
 
 <br/>
 
-**`🧠 GENERATIVE AI STACK`**
+**`🧠 GENERATIVE AI`**
 
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=e535ab)
@@ -239,9 +224,7 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ANALYTICS                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
@@ -249,12 +232,12 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shafeer-saidalavi&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&border_color=1a1a2e&border_radius=10&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shafeer-saidalavi&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0&border=1a1a2e&border_radius=10" alt="Streak Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shafhere&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&border_color=1a1a2e&border_radius=10&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shafhere&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0&border=1a1a2e&border_radius=10" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shafeer-saidalavi&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" alt="Activity Graph"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafhere&layout=compact&theme=transparent&title_color=00d4ff&text_color=a0aec0&border_color=1a1a2e&border_radius=10&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -262,68 +245,7 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `〔 CONTRIBUTION SNAKE 〕`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafeer-saidalavi/shafeer-saidalavi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shafeer-saidalavi/shafeer-saidalavi/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/shafeer-saidalavi/shafeer-saidalavi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shafeer-saidalavi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   FUTURE GOALS                                 -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `〔 WHAT I'M WORKING TOWARD 〕`
-
-</div>
-
-```python
-goals = {
-    "building"     : "Impactful AI products that solve real human problems",
-    "contributing" : "Open-source AI systems and tools for the community",
-    "advancing"    : "AI research and applications in healthcare and education",
-    "sharing"      : "Knowledge through mentorship, content, and collaboration",
-}
-```
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  CONNECT WITH ME                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
 
 <div align="center">
 
@@ -331,17 +253,17 @@ goals = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5&label=SHAFEER+SAIDALAVI)](https://linkedin.com/in/shafeer-saidalavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5&label=SHAFEER+SAIDALAVI)](https://www.linkedin.com/in/shafeer-saidalavi-9829a2277)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&label=@SHAFEER)](https://github.com/shafeer-saidalavi)
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white&label=RESEARCH)](https://medium.com/@shafeersaidalavi222)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&label=REACH+OUT)](mailto:shafeer@mednex.in)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&label=EMAIL)](mailto:shafeersaidalavi222@gmail.com)
 &nbsp;
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white&label=FOLLOW)](https://x.com/shafeer_ai)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&label=@SHAFHERE)](https://github.com/Shafhere)
 
 <br/>
 
-*Open to AI collaborations, mentorship, consulting, and open-source projects.*
+*Open to AI collaborations, research discussions, and open-source projects.*
 
 </div>
 
@@ -349,21 +271,13 @@ goals = {
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Kerala%20%E2%86%92%20World&fontSize=20&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" />
 
 <br/>
 
-*Crafted with precision, purpose, and a passion for AI · Kerala, India 🇮🇳*
-
-<br/>
-
-![Wave](https://img.shields.io/badge/-Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20what%20you%20see-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)
+*Building at the edge of AI · Kerala, India 🇮🇳*
 
 </div>
 
