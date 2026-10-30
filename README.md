@@ -322,6 +322,16 @@ class ShafeerSaidalavi:
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shafhere/Shafhere/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shafhere/Shafhere/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shafhere/Shafhere/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shafhere/Shafhere/output/github-snake.svg">
+  </picture>
+</p>
+
 </div>
 
 ---
